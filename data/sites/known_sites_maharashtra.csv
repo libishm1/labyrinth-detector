@@ -1,0 +1,12 @@
+site_group,site_id,label,lat,lon,crs,state,district,diameter_m,circuits,form,domain,label_strength,source_type,context,source,notes
+aitawade,aitawade_budrukh_1,1,16.993755,74.206457,EPSG:4326,Maharashtra,Sangli,11.7,7,classical_circular,india_documented,1.0,paper_coordinate,rocky_ground_near_cart_road,Caerdroia50,near Khandoba Temple
+aitawade,aitawade_budrukh_2,1,16.987677,74.207794,EPSG:4326,Maharashtra,Sangli,9.2,7,classical_circular,india_documented,1.0,paper_coordinate,rocky_ground_near_cart_road,Caerdroia50,near Pavatka temple
+vashi,vashi_1,1,16.988316,74.236290,EPSG:4326,Maharashtra,Sangli,10.8,7,damaged_classical,india_documented,1.0,paper_coordinate,pass_between_hillocks,Caerdroia50,originally about 13.5 m diameter
+malangaon,malangaon_1,1,17.020806,74.747338,EPSG:4326,Maharashtra,Sangli,9.9,7,irregular_classical,india_documented,1.0,paper_coordinate,roadside_protected_enclosure,Caerdroia50,modern enclosure around labyrinth
+shivpuri,shivpuri_1,1,16.992693,74.241300,EPSG:4326,Maharashtra,Sangli,8.8,10,circular,india_documented,1.0,paper_coordinate,rocky_scrub_hillock,Caerdroia52,near footpath to Chilubai temple
+majale,majale_1,1,16.791945,74.452732,EPSG:4326,Maharashtra,Kolhapur,12.4,7,classical_circular,india_documented,1.0,paper_coordinate,ridge_platform,Caerdroia52,near Hazrat Peer Babu Jamal Sahib Dargah Kumbhoj Hatkanangale shrine
+kumbhoj,kumbhoj_1,1,16.798608,74.454633,EPSG:4326,Maharashtra,Kolhapur,14.6,7,circular,india_documented,1.0,paper_coordinate,stony_ground_between_hillocks,Caerdroia52,near footpath from shrine towards Danoli
+kalambi,kalambi_1,1,17.501492,74.321374,EPSG:4326,Maharashtra,Satara,11.7,7,classical_separate_entrance_exit,india_documented,1.0,paper_coordinate,rocky_pasture_cart_road,Caerdroia52,Kalambi I
+kalambi,kalambi_2,1,17.495868,74.322527,EPSG:4326,Maharashtra,Satara,5.2,3,simple_circular,india_documented,1.0,paper_coordinate,pasture_beside_cart_road,Caerdroia52,Kalambi II
+kalambi,kalambi_3,1,17.495850,74.322322,EPSG:4326,Maharashtra,Satara,7.2,6,unusual_circular,india_documented,1.0,paper_coordinate,rocky_surface_beside_cart_road,Caerdroia52,Kalambi III 20 m west of Kalambi II
+kalambi,kalambi_4,1,17.495932,74.322246,EPSG:4326,Maharashtra,Satara,7.25,6,irregular_circular,india_documented,1.0,paper_coordinate,near_kalambi_3,Caerdroia52,Kalambi IV about 5 m from Kalambi III
