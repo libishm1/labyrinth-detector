@@ -1,0 +1,3 @@
+site_group,site_id,label,lat,lon,crs,notes
+salem_01,labyrinth_1,1,11.564267,78.003442,EPSG:4326,paired candidate near labyrinth_2
+salem_01,labyrinth_2,1,11.564514,78.003330,EPSG:4326,paired candidate near labyrinth_1

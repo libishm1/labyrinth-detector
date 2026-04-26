@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+albumentations
+opencv-python
+rasterio
+numpy
+pandas
+scipy
+tqdm
+segmentation-models-pytorch
+timm
+rvt-py
+
+scikit-learn
